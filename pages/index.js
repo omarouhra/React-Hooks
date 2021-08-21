@@ -41,6 +41,8 @@ function Home() {
         }}
         type='text'
       />
+      <br/>
+      <a href="/customHook"> Custom Hook</a>
     </div>
   );
 }
